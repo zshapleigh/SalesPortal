@@ -1,0 +1,7 @@
+<?php
+
+	$sfusername;
+	$sfpassword;
+	$sftoken;
+
+?>
